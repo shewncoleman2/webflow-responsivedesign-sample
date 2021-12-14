@@ -1,0 +1,133 @@
+.offWhite{
+  background-color: #F5F5F5;
+}
+
+ul li{
+    padding-right:20px;
+}
+
+ul{
+  list-style: none;
+}
+
+li:hover{
+  color:white;
+
+}
+
+.exploreTheshowcase{
+  font-size: 22px;
+}
+
+.topPadding{
+  padding-top: 10px;
+}
+
+.paddingtop{
+  padding-top: 5px;
+}
+
+.paddingtop2{
+  padding-top:35px;
+}
+
+.eye{
+  margin-right: 7px;
+}
+
+.explore li:hover{
+  color:black;
+  font-weight:bold;
+  text-decoration: underline;
+ 
+
+}
+
+li:active{
+  color:black;
+  font-weight: bold;
+
+}
+
+li:visited {
+  font-weight:bold;
+  
+}
+
+#dropdownMenuButton1{
+  background-color: #4250f6;
+}
+
+.grey{
+  color:#696969;
+}
+
+.greyBackground{
+  color:#696969;
+}
+
+.gallery{
+  max-width: 1170px;
+}
+.Raleway{
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+}
+
+.heightOne{
+  height: 63px;
+}
+
+.heightTwo{
+  height:65px;
+}
+
+.heightThree{
+  height:49px;
+}
+
+.marginTop{
+  margin-top:35px;
+  margin-bottom:30px;;
+
+}
+
+.marginToptwo{
+  margin-top: 28px;
+  margin-bottom:26px;
+}
+
+.authorBox{
+  margin-top: 10px;
+  padding-right: 20px;
+}
+
+
+@media screen and (max-width: 767px) {
+    .menuItem {
+      display: none;
+      
+    }
+    .dropdown-menu{
+        display:inline;
+    }
+
+    
+  }
+
+.hide{
+    display:none;
+}
+
+
+
+@media screen and (min-width: 767px) {
+
+    .dropdown{
+        display:none;
+    }
+  }
+
+
+
+
